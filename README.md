@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Scaling Techniques in Machine Learning Preprocessing
 
@@ -57,3 +58,7 @@ This repository is open for academic and educational use under the MIT License.
 
 For any questions or feedback, feel free to reach out or open an issue.
 
+=======
+# scaling-techniques-research
+Comparative analysis of scaling techniques used in preprocessing for machine learning models — includes code, datasets, and evaluation results.
+>>>>>>> eef8e17e7327c243e6451bf2b3b01f2b6f3866f6
